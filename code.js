@@ -1,7 +1,7 @@
 function validarPalabra() {
     var palabraIngresada = document.getElementById("palabraInput").value;
     
-    if (palabraIngresada.toLowerCase() === "secreto") {
+    if (palabraIngresada.toLowerCase() === "hylcjy") {
       // Si la palabra es correcta, redirige a otra página
       window.location.href = "carta.html";
     } else {

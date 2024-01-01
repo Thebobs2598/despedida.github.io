@@ -1,0 +1,31 @@
+/* estilos.css */
+
+body {
+    background-color: #e6e6e6; /* Fondo gris claro */
+    font-family: 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .contenedor {
+    text-align: center;
+    
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f5f5f5; /* Fondo blanco roto */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+    color: #666; /* Texto gris oscuro */
+  }
+  
+  h1 {
+    color: #555; /* Título en tono melancólico */
+  }
+  
+  p {
+    color: #777; /* Texto en tono melancólico más claro */
+  }
+  
